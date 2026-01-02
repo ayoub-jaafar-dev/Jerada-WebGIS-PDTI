@@ -1,0 +1,64 @@
+Zone,Milieu,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires disposant de l'eau courante (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires disposant de l'électricité (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires disposant de W.-C. (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires disposant d'une cuisine (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires disposant d'une fosse septique (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires disposant d'une pièce d'eau (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires locataires (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires propriétaires (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans un appartement (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans une maison marocaine (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),
+Oriental -> Jerada -> Touissit,Ensemble,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Touissit,Urbain,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Touissit,Rural,Taille moyenne des ménages,
+Oriental -> Jerada -> Touissit,Rural,Part des ménages sédentaires vivant dans un logement rural (%),
+Oriental -> Jerada -> Touissit,Rural,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Touissit,Rural,Nombre moyen de personnes par pièce d'habitation,
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires disposant d'une cuisine (%),99.8
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires disposant d'une cuisine (%),99.8
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires disposant de l'électricité (%),99.6
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires disposant de l'électricité (%),99.6
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires disposant de W.-C. (%),99.5
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires disposant de W.-C. (%),99.5
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires disposant de l'eau courante (%),98.8
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires disposant de l'eau courante (%),98.8
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),97.5
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),97.5
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires propriétaires (%),75.5
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires propriétaires (%),75.5
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans une maison marocaine (%),72.6
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans une maison marocaine (%),72.6
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),52.2
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),52.2
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires disposant d'une pièce d'eau (%),48.3
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires disposant d'une pièce d'eau (%),48.3
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),20.4
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),20.4
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),16.5
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),16.5
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),14.9
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),14.9
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),12.5
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),12.5
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires locataires (%),9.8
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires locataires (%),9.8
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),5.2
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),5.2
+Oriental -> Jerada -> Touissit,Ensemble,Taille moyenne des ménages,3.8
+Oriental -> Jerada -> Touissit,Urbain,Taille moyenne des ménages,3.8
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans un appartement (%),2.0
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans un appartement (%),2.0
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires disposant d'une fosse septique (%),1.6
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires disposant d'une fosse septique (%),1.6
+Oriental -> Jerada -> Touissit,Ensemble,Nombre moyen de personnes par pièce d'habitation,1.5
+Oriental -> Jerada -> Touissit,Urbain,Nombre moyen de personnes par pièce d'habitation,1.5
+Oriental -> Jerada -> Touissit,Urbain,Part des ménages sédentaires vivant dans un logement rural (%),0.7
+Oriental -> Jerada -> Touissit,Ensemble,Part des ménages sédentaires vivant dans un logement rural (%),0.7

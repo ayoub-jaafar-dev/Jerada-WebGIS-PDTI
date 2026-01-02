@@ -1,0 +1,100 @@
+Zone,Milieu,Sexe,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Gafait,Urbain,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Gafait,Urbain,Masculin,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),94.2
+Oriental -> Jerada -> Gafait,Rural,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),94.2
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),93.6
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),93.6
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),93.0
+Oriental -> Jerada -> Gafait,Rural,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),93.0
+Oriental -> Jerada -> Gafait,Rural,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),52.5
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),52.5
+Oriental -> Jerada -> Gafait,Rural,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),51.8
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),51.8
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),50.5
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),50.5
+Oriental -> Jerada -> Gafait,Rural,Féminin,Taux d'analphabétisme des 10 ans et plus (%),48.9
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),48.9
+Oriental -> Jerada -> Gafait,Rural,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),48.9
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Taux d'analphabétisme des 10 ans et plus (%),48.9
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),43.7
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),43.7
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),40.8
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),40.8
+Oriental -> Jerada -> Gafait,Rural,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),39.7
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),39.7
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),38.1
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),38.1
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),36.1
+Oriental -> Jerada -> Gafait,Rural,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),36.1
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),35.2
+Oriental -> Jerada -> Gafait,Rural,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),35.2
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Taux d'analphabétisme des 10 ans et plus (%),32.0
+Oriental -> Jerada -> Gafait,Rural,Masculin,Taux d'analphabétisme des 10 ans et plus (%),32.0
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Part de la population ayant un niveau d'études primaire (%),30.6
+Oriental -> Jerada -> Gafait,Rural,Masculin,Part de la population ayant un niveau d'études primaire (%),30.6
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Part de la population ayant un niveau d'études primaire (%),27.0
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Part de la population ayant un niveau d'études primaire (%),27.0
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Part de la population ayant un niveau d'études primaire (%),23.6
+Oriental -> Jerada -> Gafait,Rural,Féminin,Part de la population ayant un niveau d'études primaire (%),23.6
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),15.5
+Oriental -> Jerada -> Gafait,Rural,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),15.5
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),13.1
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),13.1
+Oriental -> Jerada -> Gafait,Rural,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",11.1
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",11.1
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",10.9
+Oriental -> Jerada -> Gafait,Rural,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",10.9
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),10.7
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",10.7
+Oriental -> Jerada -> Gafait,Rural,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),10.7
+Oriental -> Jerada -> Gafait,Rural,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",10.7
+Oriental -> Jerada -> Gafait,Rural,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),10.1
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),10.1
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),8.6
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),8.6
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),7.1
+Oriental -> Jerada -> Gafait,Rural,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),7.1
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Part de la population ayant un niveau d'études supérieur (%),5.9
+Oriental -> Jerada -> Gafait,Rural,Masculin,Part de la population ayant un niveau d'études supérieur (%),5.9
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Part de la population ayant un niveau d'études supérieur (%),5.5
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Part de la population ayant un niveau d'études supérieur (%),5.5
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Part de la population ayant un niveau d'études supérieur (%),5.1
+Oriental -> Jerada -> Gafait,Rural,Féminin,Part de la population ayant un niveau d'études supérieur (%),5.1
+Oriental -> Jerada -> Gafait,Rural,Masculin,Part de la population ayant un niveau d'études préscolaire (%),2.7
+Oriental -> Jerada -> Gafait,Ensemble,Masculin,Part de la population ayant un niveau d'études préscolaire (%),2.7
+Oriental -> Jerada -> Gafait,Ensemble,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),2.2
+Oriental -> Jerada -> Gafait,Rural,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),2.2
+Oriental -> Jerada -> Gafait,Ensemble,Féminin,Part de la population ayant un niveau d'études préscolaire (%),1.7
+Oriental -> Jerada -> Gafait,Rural,Féminin,Part de la population ayant un niveau d'études préscolaire (%),1.7

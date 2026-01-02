@@ -1,0 +1,100 @@
+Zone,Milieu,Sexe,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Mrija,Urbain,Féminin,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Mrija,Urbain,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Mrija,Urbain,Masculin,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Mrija,Rural,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),91.2
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),91.2
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),91.0
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),91.0
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),90.8
+Oriental -> Jerada -> Mrija,Rural,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),90.8
+Oriental -> Jerada -> Mrija,Rural,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),90.4
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),90.4
+Oriental -> Jerada -> Mrija,Rural,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),90.3
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),90.3
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),90.3
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),90.3
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),51.7
+Oriental -> Jerada -> Mrija,Rural,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),51.7
+Oriental -> Jerada -> Mrija,Rural,Féminin,Taux d'analphabétisme des 10 ans et plus (%),50.5
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Taux d'analphabétisme des 10 ans et plus (%),50.5
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),44.0
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),44.0
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),41.0
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),41.0
+Oriental -> Jerada -> Mrija,Rural,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),35.9
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),35.9
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Part de la population ayant un niveau d'études primaire (%),33.3
+Oriental -> Jerada -> Mrija,Rural,Masculin,Part de la population ayant un niveau d'études primaire (%),33.3
+Oriental -> Jerada -> Mrija,Rural,Masculin,Taux d'analphabétisme des 10 ans et plus (%),30.7
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Taux d'analphabétisme des 10 ans et plus (%),30.7
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Part de la population ayant un niveau d'études primaire (%),29.4
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Part de la population ayant un niveau d'études primaire (%),29.4
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Part de la population ayant un niveau d'études primaire (%),25.6
+Oriental -> Jerada -> Mrija,Rural,Féminin,Part de la population ayant un niveau d'études primaire (%),25.6
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),16.2
+Oriental -> Jerada -> Mrija,Rural,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),16.2
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),14.3
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),14.3
+Oriental -> Jerada -> Mrija,Rural,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),12.4
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),12.4
+Oriental -> Jerada -> Mrija,Rural,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),7.9
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),7.9
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Part de la population ayant un niveau d'études supérieur (%),6.4
+Oriental -> Jerada -> Mrija,Rural,Masculin,Part de la population ayant un niveau d'études supérieur (%),6.4
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),6.1
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),6.1
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Part de la population ayant un niveau d'études supérieur (%),5.6
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Part de la population ayant un niveau d'études supérieur (%),5.6
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),5.3
+Oriental -> Jerada -> Mrija,Rural,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),5.3
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Part de la population ayant un niveau d'études supérieur (%),4.8
+Oriental -> Jerada -> Mrija,Rural,Féminin,Part de la population ayant un niveau d'études supérieur (%),4.8
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),4.7
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),4.7
+Oriental -> Jerada -> Mrija,Rural,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),4.4
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),4.4
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),4.3
+Oriental -> Jerada -> Mrija,Rural,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),4.3
+Oriental -> Jerada -> Mrija,Rural,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",3.2
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",3.2
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",3.1
+Oriental -> Jerada -> Mrija,Rural,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",3.1
+Oriental -> Jerada -> Mrija,Rural,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",3.1
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",3.1
+Oriental -> Jerada -> Mrija,Ensemble,Féminin,Part de la population ayant un niveau d'études préscolaire (%),1.0
+Oriental -> Jerada -> Mrija,Rural,Féminin,Part de la population ayant un niveau d'études préscolaire (%),1.0
+Oriental -> Jerada -> Mrija,Ensemble,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),0.7
+Oriental -> Jerada -> Mrija,Rural,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),0.7
+Oriental -> Jerada -> Mrija,Rural,Masculin,Part de la population ayant un niveau d'études préscolaire (%),0.4
+Oriental -> Jerada -> Mrija,Ensemble,Masculin,Part de la population ayant un niveau d'études préscolaire (%),0.4

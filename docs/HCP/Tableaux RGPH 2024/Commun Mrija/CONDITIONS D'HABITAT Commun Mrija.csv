@@ -1,0 +1,64 @@
+Zone,Milieu,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires locataires (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires disposant de W.-C. (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans un logement rural (%),
+Oriental -> Jerada -> Mrija,Urbain,Taille moyenne des ménages,
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans une maison marocaine (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires vivant dans un appartement (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires propriétaires (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires disposant de l'électricité (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires disposant d'une pièce d'eau (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires disposant d'une fosse septique (%),
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires disposant d'une cuisine (%),
+Oriental -> Jerada -> Mrija,Urbain,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Mrija,Urbain,Nombre moyen de personnes par pièce d'habitation,
+Oriental -> Jerada -> Mrija,Urbain,Part des ménages sédentaires disposant de l'eau courante (%),
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires disposant d'une cuisine (%),89.5
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires disposant d'une cuisine (%),89.5
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires disposant de l'électricité (%),73.5
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires disposant de l'électricité (%),73.5
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires propriétaires (%),70.7
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires propriétaires (%),70.7
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires disposant de W.-C. (%),58.4
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires disposant de W.-C. (%),58.4
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans un logement rural (%),48.5
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans un logement rural (%),48.5
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),45.1
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),45.1
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans une maison marocaine (%),38.2
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans une maison marocaine (%),38.2
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires disposant d'une pièce d'eau (%),38.0
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires disposant d'une pièce d'eau (%),38.0
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires disposant de l'eau courante (%),30.7
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires disposant de l'eau courante (%),30.7
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),27.4
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),27.4
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires disposant d'une fosse septique (%),26.6
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires disposant d'une fosse septique (%),26.6
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),25.2
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),25.2
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),24.3
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),24.3
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires locataires (%),14.0
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires locataires (%),14.0
+Oriental -> Jerada -> Mrija,Rural,Taille moyenne des ménages,5.1
+Oriental -> Jerada -> Mrija,Ensemble,Taille moyenne des ménages,5.1
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),2.3
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),2.3
+Oriental -> Jerada -> Mrija,Ensemble,Nombre moyen de personnes par pièce d'habitation,1.9
+Oriental -> Jerada -> Mrija,Ensemble,Distance moyenne des logements à la route goudronnée (Km),1.9
+Oriental -> Jerada -> Mrija,Rural,Nombre moyen de personnes par pièce d'habitation,1.9
+Oriental -> Jerada -> Mrija,Rural,Distance moyenne des logements à la route goudronnée (Km),1.9
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),1.2
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),1.2
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans un appartement (%),0.2
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans un appartement (%),0.2
+Oriental -> Jerada -> Mrija,Ensemble,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.0
+Oriental -> Jerada -> Mrija,Rural,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.0

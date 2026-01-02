@@ -1,0 +1,91 @@
+Zone,Milieu,Sexe,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part de la population de 15-59 ans (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part de la population de 60 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part de la population de moins de 15 ans (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des célibataires parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des divorcé.e.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des marié.e.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des veuf.ve.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Âge moyen singulier au mariage,
+Oriental -> Jerada -> Jerada,Rural,Féminin,Descendance finale des femmes,
+Oriental -> Jerada -> Jerada,Rural,Féminin,Indicateur conjoncturel de fécondité,
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part de la population de 15-59 ans (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part de la population de 60 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part de la population de moins de 15 ans (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des célibataires parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des divorcé.e.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des marié.e.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des veuf.ve.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Âge moyen singulier au mariage,
+Oriental -> Jerada -> Jerada,Rural,Masculin,Descendance finale des femmes,
+Oriental -> Jerada -> Jerada,Rural,Masculin,Indicateur conjoncturel de fécondité,
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part de la population de 60 ans et plus (%),
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Indicateur conjoncturel de fécondité,
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Descendance finale des femmes,
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des veuf.ve.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Descendance finale des femmes,
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Indicateur conjoncturel de fécondité,
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des marié.e.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des divorcé.e.s parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des célibataires parmi les 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part de la population de moins de 15 ans (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Âge moyen singulier au mariage,
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Descendance finale des femmes,
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Indicateur conjoncturel de fécondité,
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part de la population de 15-59 ans (%),
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part de la population de 15-59 ans (%),60.2
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part de la population de 15-59 ans (%),60.2
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part de la population de 15-59 ans (%),59.8
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part de la population de 15-59 ans (%),59.8
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part de la population de 15-59 ans (%),59.2
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part de la population de 15-59 ans (%),59.2
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des marié.e.s parmi les 15 ans et plus (%),54.4
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des marié.e.s parmi les 15 ans et plus (%),54.4
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des marié.e.s parmi les 15 ans et plus (%),53.5
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des marié.e.s parmi les 15 ans et plus (%),53.5
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des marié.e.s parmi les 15 ans et plus (%),52.8
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des marié.e.s parmi les 15 ans et plus (%),52.8
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des célibataires parmi les 15 ans et plus (%),43.3
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des célibataires parmi les 15 ans et plus (%),43.3
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des célibataires parmi les 15 ans et plus (%),36.5
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des célibataires parmi les 15 ans et plus (%),36.5
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Âge moyen singulier au mariage,34.0
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Âge moyen singulier au mariage,34.0
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des célibataires parmi les 15 ans et plus (%),30.5
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des célibataires parmi les 15 ans et plus (%),30.5
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Âge moyen singulier au mariage,28.6
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Âge moyen singulier au mariage,28.6
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part de la population de moins de 15 ans (%),25.5
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part de la population de moins de 15 ans (%),25.5
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part de la population de moins de 15 ans (%),23.5
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part de la population de moins de 15 ans (%),23.5
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Âge moyen singulier au mariage,23.2
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Âge moyen singulier au mariage,23.2
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part de la population de moins de 15 ans (%),21.6
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part de la population de moins de 15 ans (%),21.6
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part de la population de 60 ans et plus (%),18.2
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part de la population de 60 ans et plus (%),18.2
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part de la population de 60 ans et plus (%),16.8
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part de la population de 60 ans et plus (%),16.8
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part de la population de 60 ans et plus (%),15.2
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part de la population de 60 ans et plus (%),15.2
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des veuf.ve.s parmi les 15 ans et plus (%),12.2
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des veuf.ve.s parmi les 15 ans et plus (%),12.2
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des veuf.ve.s parmi les 15 ans et plus (%),6.8
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des veuf.ve.s parmi les 15 ans et plus (%),6.8
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des divorcé.e.s parmi les 15 ans et plus (%),4.4
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des divorcé.e.s parmi les 15 ans et plus (%),4.4
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des divorcé.e.s parmi les 15 ans et plus (%),3.2
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des divorcé.e.s parmi les 15 ans et plus (%),3.2
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Descendance finale des femmes,2.1
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Descendance finale des femmes,2.1
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Descendance finale des femmes,2.1
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Descendance finale des femmes,2.1
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Indicateur conjoncturel de fécondité,1.85
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Indicateur conjoncturel de fécondité,1.85
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Indicateur conjoncturel de fécondité,1.85
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Indicateur conjoncturel de fécondité,1.85
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des divorcé.e.s parmi les 15 ans et plus (%),1.7
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des divorcé.e.s parmi les 15 ans et plus (%),1.7
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des veuf.ve.s parmi les 15 ans et plus (%),0.7
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des veuf.ve.s parmi les 15 ans et plus (%),0.7

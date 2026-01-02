@@ -1,0 +1,73 @@
+Zone,Milieu,Sexe,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Guenfouda,Urbain,Ensemble,Taux de chômage (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Féminin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Masculin,Taux d'activité des 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Masculin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Ensemble,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Ensemble,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Ensemble,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Féminin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Féminin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Féminin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Féminin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Masculin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Masculin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Masculin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Masculin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Masculin,Taux de chômage (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Masculin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Féminin,Taux de chômage (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Féminin,Taux d'activité des 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Féminin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Ensemble,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Ensemble,Part des salariés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Ensemble,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Ensemble,Taux d'activité des 15 ans et plus (%),
+Oriental -> Jerada -> Guenfouda,Rural,Féminin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),89.6
+Oriental -> Jerada -> Guenfouda,Ensemble,Féminin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),89.6
+Oriental -> Jerada -> Guenfouda,Rural,Féminin,Taux de chômage (%),65.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Féminin,Taux de chômage (%),65.0
+Oriental -> Jerada -> Guenfouda,Rural,Masculin,Taux d'activité des 15 ans et plus (%),63.6
+Oriental -> Jerada -> Guenfouda,Ensemble,Masculin,Taux d'activité des 15 ans et plus (%),63.6
+Oriental -> Jerada -> Guenfouda,Ensemble,Ensemble,Part des salariés parmi les actifs occupés de 15 ans et plus (%),55.7
+Oriental -> Jerada -> Guenfouda,Rural,Ensemble,Part des salariés parmi les actifs occupés de 15 ans et plus (%),55.7
+Oriental -> Jerada -> Guenfouda,Ensemble,Masculin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),52.4
+Oriental -> Jerada -> Guenfouda,Rural,Masculin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),52.4
+Oriental -> Jerada -> Guenfouda,Ensemble,Ensemble,Taux de chômage (%),45.0
+Oriental -> Jerada -> Guenfouda,Rural,Ensemble,Taux de chômage (%),45.0
+Oriental -> Jerada -> Guenfouda,Rural,Masculin,Taux de chômage (%),41.8
+Oriental -> Jerada -> Guenfouda,Ensemble,Masculin,Taux de chômage (%),41.8
+Oriental -> Jerada -> Guenfouda,Rural,Ensemble,Taux d'activité des 15 ans et plus (%),37.2
+Oriental -> Jerada -> Guenfouda,Ensemble,Ensemble,Taux d'activité des 15 ans et plus (%),37.2
+Oriental -> Jerada -> Guenfouda,Ensemble,Masculin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),36.8
+Oriental -> Jerada -> Guenfouda,Rural,Masculin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),36.8
+Oriental -> Jerada -> Guenfouda,Rural,Ensemble,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),34.4
+Oriental -> Jerada -> Guenfouda,Ensemble,Ensemble,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),34.4
+Oriental -> Jerada -> Guenfouda,Ensemble,Féminin,Taux d'activité des 15 ans et plus (%),10.4
+Oriental -> Jerada -> Guenfouda,Rural,Féminin,Taux d'activité des 15 ans et plus (%),10.4
+Oriental -> Jerada -> Guenfouda,Rural,Féminin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),9.1
+Oriental -> Jerada -> Guenfouda,Ensemble,Féminin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),9.1
+Oriental -> Jerada -> Guenfouda,Ensemble,Masculin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),1.9
+Oriental -> Jerada -> Guenfouda,Rural,Masculin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),1.9
+Oriental -> Jerada -> Guenfouda,Rural,Ensemble,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),1.7
+Oriental -> Jerada -> Guenfouda,Ensemble,Ensemble,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),1.7
+Oriental -> Jerada -> Guenfouda,Rural,Masculin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),1.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Masculin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),1.0
+Oriental -> Jerada -> Guenfouda,Rural,Ensemble,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.9
+Oriental -> Jerada -> Guenfouda,Ensemble,Ensemble,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.9
+Oriental -> Jerada -> Guenfouda,Rural,Masculin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),0.6
+Oriental -> Jerada -> Guenfouda,Rural,Ensemble,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),0.6
+Oriental -> Jerada -> Guenfouda,Ensemble,Masculin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),0.6
+Oriental -> Jerada -> Guenfouda,Ensemble,Ensemble,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),0.6
+Oriental -> Jerada -> Guenfouda,Rural,Masculin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.4
+Oriental -> Jerada -> Guenfouda,Ensemble,Masculin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.4
+Oriental -> Jerada -> Guenfouda,Ensemble,Ensemble,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.3
+Oriental -> Jerada -> Guenfouda,Rural,Ensemble,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.3
+Oriental -> Jerada -> Guenfouda,Rural,Féminin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Féminin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Féminin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.0
+Oriental -> Jerada -> Guenfouda,Rural,Féminin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Féminin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),0.0
+Oriental -> Jerada -> Guenfouda,Rural,Féminin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),0.0
+Oriental -> Jerada -> Guenfouda,Rural,Féminin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),0.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Féminin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),0.0

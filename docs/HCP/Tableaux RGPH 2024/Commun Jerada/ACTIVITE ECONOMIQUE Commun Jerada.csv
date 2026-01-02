@@ -1,0 +1,73 @@
+Zone,Milieu,Sexe,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Part des salariés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Taux d'activité des 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Ensemble,Taux de chômage (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Taux de chômage (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Taux d'activité des 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Masculin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Taux de chômage (%),
+Oriental -> Jerada -> Jerada,Rural,Féminin,Taux d'activité des 15 ans et plus (%),
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),85.2
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),85.2
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des salariés parmi les actifs occupés de 15 ans et plus (%),68.4
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des salariés parmi les actifs occupés de 15 ans et plus (%),68.4
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),65.0
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des salariés parmi les actifs occupés de 15 ans et plus (%),65.0
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Taux d'activité des 15 ans et plus (%),63.0
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Taux d'activité des 15 ans et plus (%),63.0
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Taux de chômage (%),56.9
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Taux de chômage (%),56.9
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Taux de chômage (%),47.6
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Taux de chômage (%),47.6
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Taux de chômage (%),45.2
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Taux de chômage (%),45.2
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Taux d'activité des 15 ans et plus (%),36.9
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Taux d'activité des 15 ans et plus (%),36.9
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),26.0
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),26.0
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),23.3
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),23.3
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Taux d'activité des 15 ans et plus (%),14.2
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Taux d'activité des 15 ans et plus (%),14.2
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),9.8
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des indépendants parmi les actifs occupés de 15 ans et plus (%),9.8
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),3.4
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),3.4
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),2.9
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),2.9
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),1.7
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),1.7
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),1.4
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),1.4
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),1.1
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),1.1
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.9
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.9
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.8
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.8
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.8
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des apprentis parmi les actifs occupés de 15 ans et plus (%),0.8
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),0.5
+Oriental -> Jerada -> Jerada,Ensemble,Masculin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.5
+Oriental -> Jerada -> Jerada,Urbain,Ensemble,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.5
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des coopérateurs et des associés parmi les actifs occupés de 15 ans et plus (%),0.5
+Oriental -> Jerada -> Jerada,Ensemble,Ensemble,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.5
+Oriental -> Jerada -> Jerada,Urbain,Masculin,Part des aides familiaux parmi les actifs occupés de 15 ans et plus (%),0.5
+Oriental -> Jerada -> Jerada,Urbain,Féminin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),0.0
+Oriental -> Jerada -> Jerada,Ensemble,Féminin,Part des employeurs parmi les actifs occupés de 15 ans et plus (%),0.0

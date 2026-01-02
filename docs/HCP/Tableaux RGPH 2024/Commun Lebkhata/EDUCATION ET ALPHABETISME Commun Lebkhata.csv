@@ -1,0 +1,100 @@
+Zone,Milieu,Sexe,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Part de la population ayant un niveau d'études primaire (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Masculin,Part de la population ayant un niveau d'études préscolaire (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Taux d'analphabétisme des 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Part de la population ayant un niveau d'études supérieur (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),99.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),99.3
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),98.7
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Taux de scolarisation des 6-11 ans en 2023/2024 (%),98.7
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),98.1
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Taux de scolarisation des 6-11 ans en 2023/2024 (%),98.1
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),50.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),50.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Taux d'analphabétisme des 10 ans et plus (%),49.8
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Taux d'analphabétisme des 10 ans et plus (%),49.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),41.8
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),41.8
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),41.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),41.3
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),41.1
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),41.1
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),40.9
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Taux d'analphabétisme des 10 ans et plus (%),40.9
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),40.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),40.3
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),39.7
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),39.7
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),39.2
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Part des personnes sachant lire et écrire l'arabe et le français uniquement parmi les alphabètes de 10 ans et plus (%),39.2
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),37.0
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Part des personnes sachant lire et écrire l'arabe uniquement parmi les alphabètes de 10 ans et plus (%),37.0
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),32.0
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Part de la population n'ayant aucun niveau d'études dans l'enseignement général (%),32.0
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Taux d'analphabétisme des 10 ans et plus (%),31.4
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Taux d'analphabétisme des 10 ans et plus (%),31.4
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Part de la population ayant un niveau d'études primaire (%),28.1
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Part de la population ayant un niveau d'études primaire (%),28.1
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Part de la population ayant un niveau d'études primaire (%),24.9
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Part de la population ayant un niveau d'études primaire (%),24.9
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Part de la population ayant un niveau d'études primaire (%),21.7
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Part de la population ayant un niveau d'études primaire (%),21.7
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",21.4
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",21.4
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",17.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",17.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),17.1
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Part de la population ayant un niveau d'études secondaire collégial (%),17.1
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",14.9
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,"Part des personnes sachant lire et écrire l'arabe, le français et l'anglais parmi les alphabètes de 10 ans et plus (%)",14.9
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),13.9
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Part de la population ayant un niveau d'études secondaire collégial (%),13.9
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),11.4
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Part de la population ayant un niveau d'études secondaire qualifiant (%),11.4
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),10.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Part de la population ayant un niveau d'études secondaire collégial (%),10.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),9.1
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Part de la population ayant un niveau d'études secondaire qualifiant (%),9.1
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Part de la population ayant un niveau d'études supérieur (%),8.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Part de la population ayant un niveau d'études supérieur (%),8.8
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Part de la population ayant un niveau d'études supérieur (%),8.7
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Part de la population ayant un niveau d'études supérieur (%),8.7
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Part de la population ayant un niveau d'études supérieur (%),8.6
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Part de la population ayant un niveau d'études supérieur (%),8.6
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),7.0
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Part de la population ayant un niveau d'études secondaire qualifiant (%),7.0
+Oriental -> Jerada -> Lebkhata,Rural,Masculin,Part de la population ayant un niveau d'études préscolaire (%),2.6
+Oriental -> Jerada -> Lebkhata,Ensemble,Masculin,Part de la population ayant un niveau d'études préscolaire (%),2.6
+Oriental -> Jerada -> Lebkhata,Ensemble,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),2.1
+Oriental -> Jerada -> Lebkhata,Rural,Ensemble,Part de la population ayant un niveau d'études préscolaire (%),2.1
+Oriental -> Jerada -> Lebkhata,Ensemble,Féminin,Part de la population ayant un niveau d'études préscolaire (%),1.5
+Oriental -> Jerada -> Lebkhata,Rural,Féminin,Part de la population ayant un niveau d'études préscolaire (%),1.5

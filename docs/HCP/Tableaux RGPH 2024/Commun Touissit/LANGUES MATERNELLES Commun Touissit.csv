@@ -1,0 +1,19 @@
+Zone,Milieu,Sexe,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Touissit,Rural,Masculin,Part de la population dont la langue maternelle est l'amazigh (%),
+Oriental -> Jerada -> Touissit,Rural,Masculin,Part de la population dont la langue maternelle est l'arabe (%),
+Oriental -> Jerada -> Touissit,Rural,Ensemble,Part de la population dont la langue maternelle est l'amazigh (%),
+Oriental -> Jerada -> Touissit,Rural,Ensemble,Part de la population dont la langue maternelle est l'arabe (%),
+Oriental -> Jerada -> Touissit,Rural,Féminin,Part de la population dont la langue maternelle est l'amazigh (%),
+Oriental -> Jerada -> Touissit,Rural,Féminin,Part de la population dont la langue maternelle est l'arabe (%),
+Oriental -> Jerada -> Touissit,Urbain,Féminin,Part de la population dont la langue maternelle est l'arabe (%),100.0
+Oriental -> Jerada -> Touissit,Ensemble,Féminin,Part de la population dont la langue maternelle est l'arabe (%),100.0
+Oriental -> Jerada -> Touissit,Urbain,Ensemble,Part de la population dont la langue maternelle est l'arabe (%),99.9
+Oriental -> Jerada -> Touissit,Ensemble,Ensemble,Part de la population dont la langue maternelle est l'arabe (%),99.9
+Oriental -> Jerada -> Touissit,Urbain,Masculin,Part de la population dont la langue maternelle est l'arabe (%),99.7
+Oriental -> Jerada -> Touissit,Ensemble,Masculin,Part de la population dont la langue maternelle est l'arabe (%),99.7
+Oriental -> Jerada -> Touissit,Ensemble,Masculin,Part de la population dont la langue maternelle est l'amazigh (%),0.2
+Oriental -> Jerada -> Touissit,Urbain,Masculin,Part de la population dont la langue maternelle est l'amazigh (%),0.2
+Oriental -> Jerada -> Touissit,Urbain,Ensemble,Part de la population dont la langue maternelle est l'amazigh (%),0.1
+Oriental -> Jerada -> Touissit,Ensemble,Ensemble,Part de la population dont la langue maternelle est l'amazigh (%),0.1
+Oriental -> Jerada -> Touissit,Urbain,Féminin,Part de la population dont la langue maternelle est l'amazigh (%),0.0
+Oriental -> Jerada -> Touissit,Ensemble,Féminin,Part de la population dont la langue maternelle est l'amazigh (%),0.0

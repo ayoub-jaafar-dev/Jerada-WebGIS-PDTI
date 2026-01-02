@@ -1,0 +1,64 @@
+Zone,Milieu,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires propriétaires (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans une maison marocaine (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans un appartement (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires locataires (%),
+Oriental -> Jerada -> Gafait,Urbain,Nombre moyen de personnes par pièce d'habitation,
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires disposant de l'eau courante (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans un logement rural (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires disposant de l'électricité (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires disposant de W.-C. (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires disposant d'une cuisine (%),
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires disposant d'une fosse septique (%),
+Oriental -> Jerada -> Gafait,Urbain,Taille moyenne des ménages,
+Oriental -> Jerada -> Gafait,Urbain,Part des ménages sédentaires disposant d'une pièce d'eau (%),
+Oriental -> Jerada -> Gafait,Urbain,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires disposant d'une cuisine (%),85.5
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires disposant d'une cuisine (%),85.5
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires disposant de l'électricité (%),84.9
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires disposant de l'électricité (%),84.9
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans un logement rural (%),79.1
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans un logement rural (%),79.1
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires disposant de l'eau courante (%),76.5
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires disposant de l'eau courante (%),76.5
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires disposant de W.-C. (%),76.0
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires disposant de W.-C. (%),76.0
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires propriétaires (%),52.8
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires propriétaires (%),52.8
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),40.4
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),40.4
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires disposant d'une pièce d'eau (%),30.6
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires disposant d'une pièce d'eau (%),30.6
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),24.6
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),24.6
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),18.5
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),18.5
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),16.4
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),16.4
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans une maison marocaine (%),15.1
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans une maison marocaine (%),15.1
+Oriental -> Jerada -> Gafait,Rural,Taille moyenne des ménages,4.2
+Oriental -> Jerada -> Gafait,Ensemble,Taille moyenne des ménages,4.2
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires locataires (%),2.3
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires locataires (%),2.3
+Oriental -> Jerada -> Gafait,Ensemble,Nombre moyen de personnes par pièce d'habitation,1.8
+Oriental -> Jerada -> Gafait,Rural,Nombre moyen de personnes par pièce d'habitation,1.8
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires disposant d'une fosse septique (%),1.1
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires disposant d'une fosse septique (%),1.1
+Oriental -> Jerada -> Gafait,Rural,Distance moyenne des logements à la route goudronnée (Km),0.9
+Oriental -> Jerada -> Gafait,Ensemble,Distance moyenne des logements à la route goudronnée (Km),0.9
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.6
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.6
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),0.2
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.2
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.2
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),0.2
+Oriental -> Jerada -> Gafait,Ensemble,Part des ménages sédentaires vivant dans un appartement (%),0.0
+Oriental -> Jerada -> Gafait,Rural,Part des ménages sédentaires vivant dans un appartement (%),0.0

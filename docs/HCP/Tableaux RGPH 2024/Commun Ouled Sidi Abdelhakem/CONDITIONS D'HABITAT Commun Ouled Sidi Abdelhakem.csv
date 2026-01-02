@@ -1,0 +1,64 @@
+Zone,Milieu,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Nombre moyen de personnes par pièce d'habitation,
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires disposant de l'eau courante (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans un logement rural (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans une maison marocaine (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Taille moyenne des ménages,
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires vivant dans un appartement (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires propriétaires (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires locataires (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires disposant d'une pièce d'eau (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires disposant d'une fosse septique (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires disposant d'une cuisine (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires disposant de W.-C. (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Part des ménages sédentaires disposant de l'électricité (%),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Urbain,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires disposant de l'électricité (%),90.2
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires disposant de l'électricité (%),90.2
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires propriétaires (%),70.9
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires propriétaires (%),70.9
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans un logement rural (%),48.4
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans un logement rural (%),48.4
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires disposant d'une cuisine (%),45.7
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires disposant d'une cuisine (%),45.7
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),43.3
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),43.3
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),28.3
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),28.3
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires disposant d'une fosse septique (%),28.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires disposant d'une fosse septique (%),28.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires disposant de W.-C. (%),27.6
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires disposant de W.-C. (%),27.6
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),26.4
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),26.4
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans une maison marocaine (%),19.3
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans une maison marocaine (%),19.3
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires disposant d'une pièce d'eau (%),12.6
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires disposant d'une pièce d'eau (%),12.6
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Distance moyenne des logements à la route goudronnée (Km),9.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Distance moyenne des logements à la route goudronnée (Km),9.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Taille moyenne des ménages,5.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Taille moyenne des ménages,5.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Nombre moyen de personnes par pièce d'habitation,2.6
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Nombre moyen de personnes par pièce d'habitation,2.6
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),2.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires disposant de l'eau courante (%),2.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),2.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires disposant de l'eau courante (%),2.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans un appartement (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires vivant dans un appartement (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Rural,Part des ménages sédentaires locataires (%),0.0
+Oriental -> Jerada -> Ouled Sidi Abdelhakem,Ensemble,Part des ménages sédentaires locataires (%),0.0

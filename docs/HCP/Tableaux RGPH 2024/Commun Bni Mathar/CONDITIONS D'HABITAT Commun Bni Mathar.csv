@@ -1,0 +1,64 @@
+Zone,Milieu,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires locataires (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires disposant de W.-C. (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans un logement rural (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Taille moyenne des ménages,
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans une maison marocaine (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires vivant dans un appartement (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires propriétaires (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires disposant de l'électricité (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires disposant d'une pièce d'eau (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires disposant d'une fosse septique (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires disposant d'une cuisine (%),
+Oriental -> Jerada -> Bni Mathar,Urbain,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Bni Mathar,Urbain,Nombre moyen de personnes par pièce d'habitation,
+Oriental -> Jerada -> Bni Mathar,Urbain,Part des ménages sédentaires disposant de l'eau courante (%),
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires propriétaires (%),77.3
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires propriétaires (%),77.3
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires disposant de l'électricité (%),76.2
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires disposant de l'électricité (%),76.2
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires disposant d'une cuisine (%),74.6
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires disposant d'une cuisine (%),74.6
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires disposant de W.-C. (%),71.4
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires disposant de W.-C. (%),71.4
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans un logement rural (%),40.8
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans un logement rural (%),40.8
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),38.8
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),38.8
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires disposant de l'eau courante (%),38.0
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires disposant de l'eau courante (%),38.0
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans une maison marocaine (%),35.2
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans une maison marocaine (%),35.2
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires disposant d'une pièce d'eau (%),31.5
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires disposant d'une pièce d'eau (%),31.5
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),30.7
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),30.7
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires disposant d'une fosse septique (%),26.3
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires disposant d'une fosse septique (%),26.3
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),23.7
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),23.7
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),13.5
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),13.5
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),6.8
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),6.8
+Oriental -> Jerada -> Bni Mathar,Ensemble,Taille moyenne des ménages,4.7
+Oriental -> Jerada -> Bni Mathar,Rural,Taille moyenne des ménages,4.7
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans un appartement (%),2.6
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans un appartement (%),2.6
+Oriental -> Jerada -> Bni Mathar,Ensemble,Nombre moyen de personnes par pièce d'habitation,2.5
+Oriental -> Jerada -> Bni Mathar,Rural,Nombre moyen de personnes par pièce d'habitation,2.5
+Oriental -> Jerada -> Bni Mathar,Rural,Distance moyenne des logements à la route goudronnée (Km),2.2
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires locataires (%),2.2
+Oriental -> Jerada -> Bni Mathar,Ensemble,Distance moyenne des logements à la route goudronnée (Km),2.2
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires locataires (%),2.2
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.2
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.2
+Oriental -> Jerada -> Bni Mathar,Ensemble,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.0
+Oriental -> Jerada -> Bni Mathar,Rural,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.0

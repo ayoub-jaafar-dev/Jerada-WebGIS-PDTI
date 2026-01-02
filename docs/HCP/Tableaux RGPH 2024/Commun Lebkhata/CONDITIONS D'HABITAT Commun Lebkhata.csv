@@ -1,0 +1,64 @@
+Zone,Milieu,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Lebkhata,Urbain,Nombre moyen de personnes par pièce d'habitation,
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires disposant de l'eau courante (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans un logement rural (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Taille moyenne des ménages,
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans une maison marocaine (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires vivant dans un appartement (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires propriétaires (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires locataires (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires disposant d'une pièce d'eau (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires disposant d'une fosse septique (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires disposant d'une cuisine (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires disposant de W.-C. (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Part des ménages sédentaires disposant de l'électricité (%),
+Oriental -> Jerada -> Lebkhata,Urbain,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires disposant de l'électricité (%),91.4
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires disposant de l'électricité (%),91.4
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires disposant d'une cuisine (%),88.9
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires disposant d'une cuisine (%),88.9
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires propriétaires (%),86.8
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires propriétaires (%),86.8
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires disposant de W.-C. (%),74.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires disposant de W.-C. (%),74.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires disposant de l'eau courante (%),62.0
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires disposant de l'eau courante (%),62.0
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans un logement rural (%),56.9
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans un logement rural (%),56.9
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires disposant d'une pièce d'eau (%),48.6
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires disposant d'une pièce d'eau (%),48.6
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans une maison marocaine (%),40.2
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans une maison marocaine (%),40.2
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),39.4
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),39.4
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),25.8
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),25.8
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),19.1
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),19.1
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),15.7
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),15.7
+Oriental -> Jerada -> Lebkhata,Ensemble,Taille moyenne des ménages,4.3
+Oriental -> Jerada -> Lebkhata,Rural,Taille moyenne des ménages,4.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Nombre moyen de personnes par pièce d'habitation,2.0
+Oriental -> Jerada -> Lebkhata,Rural,Nombre moyen de personnes par pièce d'habitation,2.0
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),0.5
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),0.5
+Oriental -> Jerada -> Lebkhata,Rural,Distance moyenne des logements à la route goudronnée (Km),0.4
+Oriental -> Jerada -> Lebkhata,Ensemble,Distance moyenne des logements à la route goudronnée (Km),0.4
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires locataires (%),0.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires disposant d'une fosse septique (%),0.3
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.3
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires locataires (%),0.3
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires disposant d'une fosse septique (%),0.3
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.0
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.0
+Oriental -> Jerada -> Lebkhata,Ensemble,Part des ménages sédentaires vivant dans un appartement (%),0.0
+Oriental -> Jerada -> Lebkhata,Rural,Part des ménages sédentaires vivant dans un appartement (%),0.0

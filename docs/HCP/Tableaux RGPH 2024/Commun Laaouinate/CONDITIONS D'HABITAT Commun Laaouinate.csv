@@ -1,0 +1,64 @@
+Zone,Milieu,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Laaouinate,Urbain,Nombre moyen de personnes par pièce d'habitation,
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires disposant de l'eau courante (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans un logement rural (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Taille moyenne des ménages,
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans une maison marocaine (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires vivant dans un appartement (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires propriétaires (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires locataires (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires disposant d'une pièce d'eau (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires disposant d'une fosse septique (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires disposant d'une cuisine (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires disposant de W.-C. (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Part des ménages sédentaires disposant de l'électricité (%),
+Oriental -> Jerada -> Laaouinate,Urbain,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires disposant de l'électricité (%),90.9
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires disposant de l'électricité (%),90.9
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires disposant d'une cuisine (%),87.6
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires disposant d'une cuisine (%),87.6
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires propriétaires (%),78.0
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires propriétaires (%),78.0
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires disposant de W.-C. (%),70.2
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires disposant de W.-C. (%),70.2
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires disposant de l'eau courante (%),44.8
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires disposant de l'eau courante (%),44.8
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans un logement rural (%),44.6
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans un logement rural (%),44.6
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),42.4
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),42.4
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans une maison marocaine (%),40.5
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans une maison marocaine (%),40.5
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires disposant d'une pièce d'eau (%),39.9
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires disposant d'une pièce d'eau (%),39.9
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),21.6
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),21.6
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),20.8
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),20.8
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),15.3
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),15.3
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires disposant d'une fosse septique (%),14.6
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires disposant d'une fosse septique (%),14.6
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),4.9
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),4.9
+Oriental -> Jerada -> Laaouinate,Rural,Taille moyenne des ménages,4.4
+Oriental -> Jerada -> Laaouinate,Ensemble,Taille moyenne des ménages,4.4
+Oriental -> Jerada -> Laaouinate,Ensemble,Nombre moyen de personnes par pièce d'habitation,2.0
+Oriental -> Jerada -> Laaouinate,Rural,Nombre moyen de personnes par pièce d'habitation,2.0
+Oriental -> Jerada -> Laaouinate,Rural,Distance moyenne des logements à la route goudronnée (Km),1.5
+Oriental -> Jerada -> Laaouinate,Ensemble,Distance moyenne des logements à la route goudronnée (Km),1.5
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),0.6
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),0.6
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires locataires (%),0.4
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires locataires (%),0.4
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans un appartement (%),0.0
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.0
+Oriental -> Jerada -> Laaouinate,Rural,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),0.0
+Oriental -> Jerada -> Laaouinate,Ensemble,Part des ménages sédentaires vivant dans un appartement (%),0.0

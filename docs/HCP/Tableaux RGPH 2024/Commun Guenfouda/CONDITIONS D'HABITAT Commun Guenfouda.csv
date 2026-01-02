@@ -1,0 +1,64 @@
+Zone,Milieu,Titre de l'indicateur,Valeur de l'indicateur
+Oriental -> Jerada -> Guenfouda,Urbain,Nombre moyen de personnes par pièce d'habitation,
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans une maison marocaine (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans un appartement (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires propriétaires (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires locataires (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires disposant d'une pièce d'eau (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires disposant d'une fosse septique (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires disposant d'une cuisine (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires disposant de W.-C. (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires disposant de l'électricité (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires disposant de l'eau courante (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Distance moyenne des logements à la route goudronnée (Km),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans un logement rural (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),
+Oriental -> Jerada -> Guenfouda,Urbain,Taille moyenne des ménages,
+Oriental -> Jerada -> Guenfouda,Urbain,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires disposant de l'électricité (%),97.9
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires disposant de l'électricité (%),97.9
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires disposant d'une cuisine (%),94.6
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires disposant d'une cuisine (%),94.6
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires disposant de W.-C. (%),89.4
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires disposant de W.-C. (%),89.4
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires propriétaires (%),67.8
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires propriétaires (%),67.8
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires disposant d'une pièce d'eau (%),59.9
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires disposant d'une pièce d'eau (%),59.9
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans une maison marocaine (%),59.2
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans une maison marocaine (%),59.2
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires disposant de l'eau courante (%),47.2
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires disposant de l'eau courante (%),47.2
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans un logement rural (%),36.8
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans un logement rural (%),36.8
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),35.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires raccordés au réseau public d'assainissement (%),35.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),33.8
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans un logement de 20-49 ans (%),33.8
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),29.0
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans un logement de 50 ans ou plus (%),29.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),19.1
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans un logement de moins de 10 ans (%),19.1
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),18.2
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans un logement de 10-19 ans (%),18.2
+Oriental -> Jerada -> Guenfouda,Ensemble,Taille moyenne des ménages,4.2
+Oriental -> Jerada -> Guenfouda,Rural,Taille moyenne des ménages,4.2
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires locataires (%),4.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires locataires (%),4.0
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires disposant d'une fosse septique (%),2.9
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires disposant d'une fosse septique (%),2.9
+Oriental -> Jerada -> Guenfouda,Ensemble,Nombre moyen de personnes par pièce d'habitation,1.9
+Oriental -> Jerada -> Guenfouda,Rural,Nombre moyen de personnes par pièce d'habitation,1.9
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),1.0
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans une villa ou un étage de villa (%),1.0
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.6
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans une maison sommaire ou dans un bidonville (%),0.6
+Oriental -> Jerada -> Guenfouda,Rural,Distance moyenne des logements à la route goudronnée (Km),0.3
+Oriental -> Jerada -> Guenfouda,Ensemble,Distance moyenne des logements à la route goudronnée (Km),0.3
+Oriental -> Jerada -> Guenfouda,Rural,Part des ménages sédentaires vivant dans un appartement (%),0.1
+Oriental -> Jerada -> Guenfouda,Ensemble,Part des ménages sédentaires vivant dans un appartement (%),0.1
